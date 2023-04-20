@@ -1,3 +1,10 @@
-header{
-    background-color:purple
+.cabecalho{
+    background-color: #cb6ce6;
+    color:black;
+    display:flex;
+    justify-content:space-around;
+}
+
+.cabecalhoImagem{
+    width: 20%;
 }
