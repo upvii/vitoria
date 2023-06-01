@@ -20,3 +20,11 @@
     margin: 0 16px;
     padding: 24px 0;
 }
+.sobreImagem{
+    Width: 40%
+}
+.sobre{
+    background-color: #cb6ce6;
+    color:black;
+    display: flex;
+}
