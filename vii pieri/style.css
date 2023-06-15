@@ -21,10 +21,18 @@
     padding: 24px 0;
 }
 .sobreImagem{
-    Width: 40%
+    Width: 30%;
+    position: absolute;
+    padding: 0 0 0 860px;
 }
+
 .sobre{
     background-color: #cb6ce6;
     color:black;
     display: flex;
+    padding: 24px 0 300px 0;
+}
+.sobreConteudo{
+    width: 45%;
+    padding: 0 50px;
 }
