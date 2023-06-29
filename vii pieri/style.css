@@ -30,7 +30,7 @@
     background-color: #cb6ce6;
     color:black;
     display: flex;
-    padding: 24px 0 300px 0;
+    padding: 24px 0 400px 0;
 }
 .sobreConteudo{
     width: 45%;
@@ -39,4 +39,16 @@
 
 .membroImagem{
     width: 13%;
+}
+
+.membroIcone{
+    Width: 2%;
+}
+.membroDiv{
+    text-align: center;
+}
+
+.membrosTitulo{
+     text-align: center;
+     padding:30px ;
 }
