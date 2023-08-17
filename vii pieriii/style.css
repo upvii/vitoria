@@ -76,3 +76,13 @@
     display: grid;
     grid-template-columns:15% 25% 25% 25%;
 }
+
+.footer{
+   background-color: blueviolet;
+   padding: 15px 0;
+   text-align: center;
+}
+
+.membros{
+    background-color: #cb6ce6;
+}
